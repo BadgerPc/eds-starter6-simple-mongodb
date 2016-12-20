@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>org.mongodb</groupId>
 			<artifactId>mongo-java-driver</artifactId>
-			<version>3.4.0</version>
+			<version>3.4.1</version>
 		</dependency>
 
 		<dependency>
@@ -47,7 +47,7 @@
 		<dependency>
 			<groupId>ch.ralscha</groupId>
 			<artifactId>extdirectspring</artifactId>
-			<version>1.7.0</version>
+			<version>1.7.1</version>
 		</dependency>
 
 		<dependency>
