@@ -23,6 +23,6 @@ Prerequisite
 
 **Build the application for production**
 1. ```./mvnw clean package```
-2. The file ```target/eds-starter6-simple-mongodb-0.0.1.jar``` contains the whole application. Deploy it to a server.
+2. The file ```target/eds-starter6-simple-mongodb.jar``` contains the whole application. Deploy it to a server.
 3. Start the application with ```java -jar <any_folder>/eds-starter6-simple-mongodb.jar```
 4. The application listens by default on port 80
