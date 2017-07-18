@@ -1,6 +1,6 @@
 Ext.define('Starter.Application', {
 	extend: 'Ext.app.Application',
-	requires: [ 'Ext.direct.*' ],
+	requires: [ 'Ext.plugin.Viewport', 'Ext.direct.*', 'Ext.form.action.DirectLoad', 'Ext.form.action.DirectSubmit', 'Ext.window.Toast' ],
 	name: 'Starter',
 
 	controllers: [ 'Root' ],
